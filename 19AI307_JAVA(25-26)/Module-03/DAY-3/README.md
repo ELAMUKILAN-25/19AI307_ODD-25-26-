@@ -41,8 +41,8 @@ To create an abstract class Decoder with an abstract method decodeMessage(), and
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: MOHAMED AAKIF ASRAR S
-RegisterNumber: 212223240088
+Developed by: ELAMUKILAN G
+RegisterNumber: 212223040045
 */
 ```
 
