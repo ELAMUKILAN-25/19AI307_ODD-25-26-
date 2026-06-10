@@ -26,8 +26,8 @@ To create a Java program demonstrating method overriding by defining a base clas
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: MOHAMED AAKIF ASRAR S
-RegisterNumber:  212223240088
+Developed by: ELAMUKILAN G
+RegisterNumber:  212223040045
 */
 ```
 
